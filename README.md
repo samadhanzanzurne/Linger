@@ -1,2 +1,2 @@
-# Linger
-this is the perfect app to get new frs
+# LINGER
+this is the perfect app to find new Friends
