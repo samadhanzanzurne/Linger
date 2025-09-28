@@ -1,1 +1,2 @@
-"This is my first text file in Linger repo" 
+Hello, this is an update.
+Learning Git is fun!
